@@ -7,15 +7,15 @@ The analysis aims to determine the followings:
 2) if the survival rate is associated to the gender; and
 3) if the survival rate is associated to the age.
 
-This analysis is conducted using python. Please check [src](src.ipynb) for the python codes stored in the jupyter notebook.
+This analysis is conducted using python. Please check [src.ipynb](src.ipynb) for the python codes.
 
 
 ## Data Related to the Project
-There are 12 columns and 891 entries in the Titanic data set. Please refer to [data](data.csv) for the "Titanic.csv" data set.
+There are 12 columns and 891 entries in the Titanic data set. Please refer to [data.csv](data.csv) for the "Titanic.csv" data set.
 
 ## Result of the Project
 Survival rate is higher when passengers are of higher class, female and younger.
-Please download the report with summary statistics and plots in [result](result.pdf).
+Please download the report with summary statistics and plots in [result.pdf](result.pdf).
 
 
 ## Documentation Files
